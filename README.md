@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazen Khoualdi</h1>
 
 <h3 align="center">
-Engineering Student | Frontend Developer | IoT Enthusiast | Future Full Stack Engineer
+Engineering Student | Web Developer | IoT Enthusiast | Future Network Engineer
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Passionate about Web Development, IoT Systems, Network Infrastructure, APIs, Dat
 
 ## 🚀 About Me
 
-🎓 Engineering Student in **Infrastructure Development & Network Communications (IDISC)**
+🎓 ISI Engineering Student in **Infrastructure Development & Network Communications (IDISC)**
 
 💻 Frontend Developer currently working on professional web applications using **React.js**
 
