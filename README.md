@@ -177,14 +177,14 @@ Working with network architectures, server administration and monitoring tools.
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statistics (Public Repositories Only)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
@@ -197,10 +197,10 @@ Working with network architectures, server administration and monitoring tools.
 
 📧 Email: khoualdimazen6@gmail.com
 
-💼 LinkedIn:
+💼 LinkedIn:  
 https://linkedin.com/in/mazen-khoualdi-149049262
 
-💻 GitHub:
+💻 GitHub:  
 https://github.com/mazenkhoualdi
 
 ---
