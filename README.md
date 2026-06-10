@@ -184,7 +184,7 @@ Working with network architectures, server administration and monitoring tools.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flask,python,js,ts,postgresql,docker,git" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
