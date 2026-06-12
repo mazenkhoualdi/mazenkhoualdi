@@ -179,20 +179,20 @@ Working with network architectures, server administration and monitoring tools.
 
 ## 📊 GitHub Statistics
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true" alt="FirasKahlaoui's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true&cache_seconds=1800" alt="Mazen's Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&cache_seconds=1800" />
 </p>
 
 ---
+
 ## 🤝 Let's Connect
 
 📧 Email: khoualdimazen6@gmail.com
