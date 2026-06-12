@@ -180,21 +180,20 @@ Working with network architectures, server administration and monitoring tools.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true" alt="Mazen's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<div align="center">
+  <!-- Force refresh with nocache parameter and no server cache -->
+  <img src="https://streak-stats.demolab.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true&cache_seconds=0&nocache=20250612" alt="Mazen's Streak" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true" alt="Mazen's GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&cache_seconds=0" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark" alt="GitHub activity graph" />
-</p>
 ---
+
 ## 🤝 Let's Connect
 
 📧 Email: khoualdimazen6@gmail.com
