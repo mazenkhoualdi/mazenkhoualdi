@@ -176,30 +176,24 @@ Working with network architectures, server administration and monitoring tools.
 - DevOps Practices
 
 ---
-## 📊 GitHub Stats (STABLE VERSION)
+
+## 📊 GitHub Statistics
 
 <p align="center">
-
-  <!-- Profile Views (stable) -->
-  <img src="https://komarev.com/ghpvc/?username=mazenkhoualdi&label=Profile%20views&color=0e75b6&style=flat" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
 </p>
 
+<div align="center">
+  <!-- Force refresh with nocache parameter and no server cache -->
+  <img src="https://streak-stats.demolab.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true&cache_seconds=0&nocache=20250612" alt="Mazen's Streak" />
+</div>
+
 <p align="center">
-
-  <!-- Streak Stats (usually stable) -->
-  <img src="https://streak-stats.demolab.com?user=mazenkhoualdi&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&cache_seconds=0" />
 </p>
 
 ---
 
-## 📈 Activity Graph (optional)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&hide_border=true" />
-</p>
---
 ## 🤝 Let's Connect
 
 📧 Email: khoualdimazen6@gmail.com
