@@ -179,19 +179,28 @@ Working with network architectures, server administration and monitoring tools.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </p>
 
+---
+
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=mazenkhoualdi&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 <p align="center">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&hide_border=true" />
 </p>
-
 --
 ## 🤝 Let's Connect
 
