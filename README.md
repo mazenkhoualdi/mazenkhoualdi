@@ -180,8 +180,9 @@ Working with network architectures, server administration and monitoring tools.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
