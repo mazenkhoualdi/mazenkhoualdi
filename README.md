@@ -176,29 +176,27 @@ Working with network architectures, server administration and monitoring tools.
 - DevOps Practices
 
 ---
-## 📊 GitHub Statistics
+## 📊 GitHub Stats (STABLE VERSION)
 
 <p align="center">
-  
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <!-- Profile Views (stable) -->
+  <img src="https://komarev.com/ghpvc/?username=mazenkhoualdi&label=Profile%20views&color=0e75b6&style=flat" />
 
 </p>
 
----
-
 <p align="center">
-  <!-- Streak Stats -->
+
+  <!-- Streak Stats (usually stable) -->
   <img src="https://streak-stats.demolab.com?user=mazenkhoualdi&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
+## 📈 Activity Graph (optional)
+
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&hide_border=true" />
 </p>
 --
