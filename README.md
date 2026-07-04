@@ -175,22 +175,21 @@ Working with network architectures, server administration and monitoring tools.
 - Cybersecurity
 - DevOps Practices
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img src="https://github-readme-stats-drab-three-37.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <div align="center">
-  <!-- Force refresh with nocache parameter and no server cache -->
-  <img src="https://streak-stats.demolab.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true&cache_seconds=0&nocache=20250612" alt="Mazen's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true&cache_seconds=86400" alt="Mazen's Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&cache_seconds=0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&cache_seconds=86400" />
 </p>
+
+
 
 ---
 
