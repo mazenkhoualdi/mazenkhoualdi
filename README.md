@@ -93,92 +93,10 @@ Passionate about Web Development, IoT Systems, Network Infrastructure, APIs, Dat
 
 ---
 
-## 📌 Featured Projects
-
-### 🏢 Human Resources Management Platform
-
-A complete HR management solution featuring:
-
-- Employee Management
-- Attendance Tracking
-- Payroll Monitoring
-- Statistics Dashboard
-- PDF Report Generation
-- Data Export
-
-**Tech Stack:** React.js • Flask • SQLite/PostgreSQL
-
----
-
-### 🔐 IoT Smart Access Control System
-
-End-of-study project developed at Sagemcom.
-
-Features:
-
-- RFID Authentication
-- Real-Time Monitoring
-- Flask REST API
-- SQL Server Integration
-- ETL Pipeline using Pandas
-- Power BI Dashboards
-
----
-
-### 📊 Business Intelligence Dashboard
-
-Professional dashboard providing:
-
-- KPI Monitoring
-- HR Analytics
-- Attendance Reports
-- Anomaly Detection
-- Executive Insights
-
----
-
-### 🌐 Full Stack Web Applications
-
-Development of responsive and scalable web applications with:
-
-- Modern UI/UX
-- API Integration
-- Authentication
-- Database Management
-- Dashboard Systems
-
----
-
-## 💼 Professional Experience
-
-### Frontend Developer
-
-Building modern web applications using React.js and Tailwind CSS.
-
-### IoT & Embedded Systems Engineer
-
-Designing connected systems and real-time monitoring solutions.
-
-### Network & Infrastructure Enthusiast
-
-Working with network architectures, server administration and monitoring tools.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Ecosystem
-- PostgreSQL Optimization
-- Docker
-- CI/CD Pipelines
-- Cloud Computing
-- Cybersecurity
-- DevOps Practices
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-drab-three-37.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-lmezz.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 <div align="center">
@@ -188,8 +106,6 @@ Working with network architectures, server administration and monitoring tools.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&cache_seconds=86400" />
 </p>
-
-
 
 ---
 
