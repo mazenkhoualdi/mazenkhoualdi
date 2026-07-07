@@ -95,16 +95,24 @@ Passionate about Web Development, IoT Systems, Network Infrastructure, APIs, Dat
 
 ## 📊 GitHub Statistics
 
+<!-- Stats générales -->
 <p align="center">
-  <img src="https://github-readme-stats-lmezz.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true&cache_seconds=86400" alt="Mazen's Streak" />
-</div>
-
+<!-- Langages -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true" />
+</p>
+
+<!-- Graphique d'activité -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark" />
 </p>
 
 ---
