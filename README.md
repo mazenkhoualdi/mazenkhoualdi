@@ -95,24 +95,18 @@ Passionate about Web Development, IoT Systems, Network Infrastructure, APIs, Dat
 
 ## 📊 GitHub Statistics
 
-<!-- Stats générales -->
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazenkhoualdi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Langages -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenkhoualdi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true" />
 </p>
-
-<!-- Streak -->
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true" />
-</p>
-
-<!-- Graphique d'activité -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazenkhoualdi&theme=react-dark&v=1752050000" />
 </p>
 
 ---
