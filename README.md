@@ -102,7 +102,7 @@ Passionate about Web Development, IoT Systems, Network Infrastructure, APIs, Dat
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mazenkhoualdi&theme=midnight-purple&hide_border=true&v=1752050000" />
 </p>
 <!-- GitHub Activity Graph -->
 <p align="center">
